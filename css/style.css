@@ -1,0 +1,11 @@
+h1{
+    background-color: burlywood;
+    font-size: large;
+    font: italic 1.3em "Fira Sans", "Helvetica Neue";
+}
+
+pre{
+    background-color: rgb(245, 242, 239);
+    font-size: larger;
+    font: tahoma, arial, helvetica, sans-serif;
+}
